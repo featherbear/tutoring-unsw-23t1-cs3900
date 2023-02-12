@@ -1,0 +1,11 @@
+{{ if isset .Params "redirect" }}
+    {{ if not ( findRE "^\\w+:\\/\\/.+$" .Params.redirect ) }}
+        {{ errorf "Invalid redirect URL: %s" .Params.redirect }}
+    {{ end }}
+
+    <script>
+        window.stop()
+        location = atob('{{ base64Encode .Params.redirect }}')
+    </script>
+    <meta http-equiv="refresh" content="0;URL='{{ .Params.redirect }}'" />    
+{{ end }}
