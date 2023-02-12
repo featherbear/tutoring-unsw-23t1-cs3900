@@ -2,7 +2,7 @@
 title: "Week 1"
 layout: "bundle"
 outputs: ["Reveal"]
-date: 2022-02-15T08:59:39+11:00
+date: 2023-02-12T08:59:39+11:00
 ---
 
 {{< slide class="center" >}}
@@ -15,9 +15,7 @@ date: 2022-02-15T08:59:39+11:00
 
 ## Resources
 
-> [WebCMS](https://webcms3.cse.unsw.edu.au/COMP9900/22T1/)
-
-> [featherbear.cc/tutoring-unsw](https://featherbear.cc/tutoring-unsw)
+> [WebCMS](https://webcms3.cse.unsw.edu.au/COMP9900/23T1/)
 
 ---
 
@@ -38,7 +36,7 @@ date: 2022-02-15T08:59:39+11:00
 
 ## Deliverables
     
-[Course Outline](https://webcms3.cse.unsw.edu.au/COMP9900/22T1/)
+[Course Outline](https://webcms3.cse.unsw.edu.au/COMP9900/23T1/)
 
 ---
 
@@ -49,14 +47,7 @@ date: 2022-02-15T08:59:39+11:00
 * Name
 * <s>University</s>
 * What project you're interested in
-* Technical strengths
-
----
-
-* Name
-* <s>University</s>
-* What project you're interested in
-* Technical strengths
-* Memes
+* Technical strengths (Frontend? Backend? React?)
+* Expectations
 
 {{% /section %}}
