@@ -25,6 +25,7 @@ Andrew Wong
 ## Resources
 
 > [Tutor Portal](https://featherbear.cc/tutoring-unsw/resources)
+
 > Moodle
 
 ---
@@ -60,9 +61,13 @@ But that's okay
   * Set up your meeting times
   * Exchange contact details
   * Project Diary
-* Start considering your project
-    * Custom projects by week 1
-    * Proposal due week 4
+
+---
+
+Start considering your project
+
+* Custom projects by week 1
+* Proposal due week 4
 
 ---
 
@@ -74,6 +79,6 @@ But that's okay
 * <s>University</s>
 * What project you're interested in
 * Technical strengths (Frontend? Backend? React?)
-* Expectations
+* Expectations (ish)
 
 {{% /section %}}
