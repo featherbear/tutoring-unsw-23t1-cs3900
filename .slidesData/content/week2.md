@@ -42,3 +42,7 @@ date: 2023-02-19T08:59:39+11:00
 * Free hosted MongoDB databases
 
 ---
+
+## Pipelines, Workflows
+
+Automation 👏
