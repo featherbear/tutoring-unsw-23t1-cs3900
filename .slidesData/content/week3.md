@@ -2,7 +2,6 @@
 title: "Week 3"
 layout: "bundle"
 outputs: ["Reveal"]
-draft: true
 date: 2023-02-16T08:59:39+11:00
 ---
 
