@@ -3,7 +3,11 @@ Don&amp;rsquo;t be overzealous
 You only have a term
 And other courses to do
 Write tests
-Design Architecture Client + Server Serverless (i.e. AWS Lambdas) Separate your frontend and backend Hosting Heroku, Firebase Or like, local Free hosted MongoDB databases Pipelines, Workflows Automation 👏</description></item><item><title>Week 1</title><link>/week1/</link><pubDate>Sun, 12 Feb 2023 08:59:39 +1100</pubDate><guid>/week1/</guid><description>Week 1 Welcome to COMP3900 Who, me? Andrew Wong
+Design Architecture Client + Server Serverless (i.e. AWS Lambdas) Separate your frontend and backend Hosting Heroku, Firebase Or like, local Free hosted MongoDB databases Pipelines, Workflows Automation 👏</description></item><item><title>Week 3</title><link>/week3/</link><pubDate>Thu, 16 Feb 2023 08:59:39 +1100</pubDate><guid>/week3/</guid><description>Week 3 Welcome to COMP3900 Let&amp;rsquo;s talk authentication Who is you?
+Username and Password Email and Password OAuth SSO Firebase Authentication, etc..? How2BeGud
+Hash your passwords BCrypt SHA256 (w/ salt) How do I keep user authentication state?
+Python Flask Session JWT Session ID + backend impl? How should I pass tokens?
+Cookies Authorization header In your HTTP request body?</description></item><item><title>Week 1</title><link>/week1/</link><pubDate>Sun, 12 Feb 2023 08:59:39 +1100</pubDate><guid>/week1/</guid><description>Week 1 Welcome to COMP3900 Who, me? Andrew Wong
 andrew.j.wong@unsw.edu.au cs3900@cse.unsw.edu.au Resources Tutor Portal
 Moodle
 Assessments &amp;quot;Optional&amp;rdquo; tasks 2 week sprints What makes a good team / project Frontend + Backend Testing lmao Docker&amp;hellip;? There&amp;rsquo;s no I in team But that&amp;rsquo;s okay
